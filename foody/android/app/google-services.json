@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876012556988",
+    "project_id": "foodly-flutter-c1019",
+    "storage_bucket": "foodly-flutter-c1019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876012556988:android:7713139e84bf8386f036b9",
+        "android_client_info": {
+          "package_name": "com.example.foody"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhcfdzVrqaZBGd8wbTNCv2YRBdBvupcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

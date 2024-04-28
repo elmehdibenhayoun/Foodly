@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "foody",
+			"path": "foody"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
